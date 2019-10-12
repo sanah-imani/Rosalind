@@ -1,3 +1,5 @@
+http://rosalind.info/problems/iev/
+
 population = [19471,16590,16595,16930,17093,16591]
 
 def phenotypeCalc(population):
