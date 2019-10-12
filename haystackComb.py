@@ -1,3 +1,5 @@
+http://rosalind.info/problems/subs/
+
 locs = []
 def location(dnaSeq,frag):
     for x in range(0,len(dnaSeq)):
