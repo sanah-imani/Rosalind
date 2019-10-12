@@ -1,3 +1,5 @@
+http://rosalind.info/problems/hamm/
+
 def hammingDist(seq1, seq2):
     differ = 0
     for x in range(0,len(seq1)):
